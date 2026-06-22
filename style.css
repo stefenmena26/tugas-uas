@@ -689,3 +689,13 @@ pre{
     0 0 20px rgba(247,198,0,.25);
 
 }
+
+.task-image{
+    width:100%;
+    max-width:800px;
+    display:block;
+    margin:20px auto;
+    border-radius:15px;
+    border:2px solid #f7c600;
+    box-shadow:0 0 20px rgba(247,198,0,.25);
+}
